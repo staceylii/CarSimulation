@@ -60,9 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\OutPost\Resources\Scripts\FPS_Camera.cs" />
-    <None Include="Assets\OutPost\Resources\Scripts\Camera Howto.txt" />
-    <None Include="Assets\OutPost\Resources\Assets\Materials\2sided.shader" />
+    <Compile Include="Assets\SourcedAssets\OutPost\Resources\Scripts\FPS_Camera.cs" />
+    <None Include="Assets\SourcedAssets\OutPost\Resources\Scripts\Camera Howto.txt" />
+    <None Include="Assets\SourcedAssets\OutPost\Resources\Assets\Materials\2sided.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/far-lab-vroom/Desktop/Groot/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
